@@ -65,6 +65,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
+    margin-left: 80px;
 }
 .head-container{
     color: var(--text);
@@ -116,6 +117,7 @@
 
 #aboutme{
     padding: 80px 100px;
+    margin-left: 80px;
 }
 .colum{
     display: flex;
