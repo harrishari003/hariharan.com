@@ -115,12 +115,12 @@
 /* !about me */
 
 #aboutme{
-    padding: 80px 113px;
+    padding: 80px 100px;
 }
 .colum{
     display: flex;
-    /* justify-content: space-between; */
-    flex-wrap: wrap;
+    justify-content: space-between;
+/*     flex-wrap: wrap; */
 }
 .webdev{
     font-weight: 500;
@@ -130,7 +130,7 @@
     flex-basis: 30%;
 }
 .colum2{
-    flex-basis: 60%;
+    flex-basis: 70%;
 }
 .colum1 img{
     width: 450px;
