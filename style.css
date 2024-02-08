@@ -127,6 +127,7 @@
 }
 .colum1{
     position: relative;
+    padding: 0px 40px 0px 0px;
     flex-basis: 30%;
 }
 .colum2{
